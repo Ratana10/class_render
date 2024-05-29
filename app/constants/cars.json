@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": "2018",
+    "price": "19000",
+    "image": "https://th.bing.com/th/id/OIP.bvV-4isz1y7S2AYj3pVh5wHaFj?w=232&h=180&c=7&r=0&o=5&pid=1.7"
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2019",
+    "price": "22000",
+    "image": "https://th.bing.com/th/id/OIP.pK1rT4TVhEcQacgwpKvMTQAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2017",
+    "price": "30000",
+    "image": "https://th.bing.com/th/id/OIP.EBjmeJnssSOPe6M7qqOyUAHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": "2020",
+    "price": "35000",
+    "image": "https://th.bing.com/th/id/OIP.ogD__3MsYFhXlTRebaizgQHaE8?w=219&h=180&c=7&r=0&o=5&pid=1.7"
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": "2021",
+    "price": "28000",
+    "image": "https://th.bing.com/th/id/OIP.uSZLspgEEwNYvzdPKaYzrQHaEV?rs=1&pid=ImgDetMain"
+  }
+]
