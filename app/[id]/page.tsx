@@ -1,6 +1,6 @@
 import Card from "../components/Card";
 import cars from "../constants/cars.json";
-import { CarItem } from "../type/CarItem";
+import { CarItem } from "../type/Types";
 
 const page = ({ params }: { params: { id: string } }) => {
   const carId = parseInt(params.id);

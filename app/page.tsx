@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import cars from "./constants/cars.json";
 import Card from "./components/Card";
-import { CarItem } from "./type/CarItem";
+import { CarItem } from "./type/Types";
 import Link from "next/link";
 
 export default function Home() {

@@ -1,5 +1,5 @@
 import React from "react";
-import { CarItem } from "../type/CarItem";
+import { CarItem } from "../type/Types";
 const Card = ({car} : {car: CarItem}) => {
   return (
 
